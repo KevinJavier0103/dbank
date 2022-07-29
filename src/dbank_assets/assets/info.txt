@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Kameron-Regular
+font link: https://fonts.google.com/specimen/Kameron
+font author: Vernon Adams
+font author site: http://sansoxygen.com/
+
+
+icon designer: Alfredo @ IconsAlfredo.us
+icon designer link: /AlfredoCreates
+        
+{"bg-gradient-0":"#6566CE","bg-gradient-1":"#DBC1D0","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
